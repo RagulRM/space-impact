@@ -1,5 +1,4 @@
 name: 🚀 Space Impact CI/CD Pipeline
-
 on:
   push:
     branches: [ "main" ]
